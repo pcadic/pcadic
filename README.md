@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello, I am Philippe and I use GitHub to create my portfolio to showcase my projects in Dta Analysis.
+
 <!--
 **pcadic/pcadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
