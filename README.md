@@ -34,9 +34,9 @@ Passionate about data analysis, I enjoy exploring and visualizing data to uncove
 ## 📌 Featured Projects  
 🌟 [Employees turnover](https://github.com/pcadic/Google-Advanced-Data-Analytics-Professional-Certificate-Capstone) - The Employees Turnover Case Study is a capstone project for the Google Advanced Data Analytics Professional Certificate.  
 🌟 [Cyclistic Bike Sharing](https://github.com/pcadic/Google-Data-Analytics-Professional-Certificate-Capstone-1-Cyclistic) - The Cyclistic Bike Share Case Study is a capstone project for the Google Data Analytics Professional Certificate. 
-🌟 [Coffee Shop Sales]([link_to_repo](https://github.com/pcadic/Google-Data-Analytics-Professional-Certificate-Capstone-2-Coffee-Shop-Sales)) - The Coffee Shop Sales Case Study is a capstone project for the Google Data Analytics Professional Certificate.  
+🌟 [Coffee Shop Sales](https://github.com/pcadic/Google-Data-Analytics-Professional-Certificate-Capstone-2-Coffee-Shop-Sales) - The Coffee Shop Sales Case Study is a capstone project for the Google Data Analytics Professional Certificate.  
 
-👉 **Check out all my projects [here](https://github.com/pcadic).**  
+👉 **Check out all my projects [here](https://github.com/pcadic?tab=repositories).**  
 
 ---
 
