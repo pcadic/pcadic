@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Philippe 👋
 
-Hello, I am Philippe and I use GitHub to create my portfolio to showcase my projects in Data Analysis.
+I use GitHub to create my portfolio to showcase my projects in Data Analysis.
 
 <!--
 **pcadic/pcadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,8 +32,8 @@ Passionate about data analysis, I enjoy exploring and visualizing data to uncove
 ---
 
 ## 📌 Featured Projects  
-🌟 [Employees turnover]([link_to_repo](https://github.com/pcadic/Google-Advanced-Data-Analytics-Professional-Certificate-Capstone)) - The Employees Turnover Case Study is a capstone project for the Google Advanced Data Analytics Professional Certificate.  
-🌟 [Cyclistic Bike Sharing]([link_to_repo](https://github.com/pcadic/Google-Data-Analytics-Professional-Certificate-Capstone-1-Cyclistic)) - The Cyclistic Bike Share Case Study is a capstone project for the Google Data Analytics Professional Certificate. 
+🌟 [Employees turnover](https://github.com/pcadic/Google-Advanced-Data-Analytics-Professional-Certificate-Capstone) - The Employees Turnover Case Study is a capstone project for the Google Advanced Data Analytics Professional Certificate.  
+🌟 [Cyclistic Bike Sharing](https://github.com/pcadic/Google-Data-Analytics-Professional-Certificate-Capstone-1-Cyclistic) - The Cyclistic Bike Share Case Study is a capstone project for the Google Data Analytics Professional Certificate. 
 🌟 [Coffee Shop Sales]([link_to_repo](https://github.com/pcadic/Google-Data-Analytics-Professional-Certificate-Capstone-2-Coffee-Shop-Sales)) - The Coffee Shop Sales Case Study is a capstone project for the Google Data Analytics Professional Certificate.  
 
 👉 **Check out all my projects [here](https://github.com/pcadic).**  
@@ -41,4 +41,4 @@ Passionate about data analysis, I enjoy exploring and visualizing data to uncove
 ---
 
 ## 📫 Get in Touch  
-💼 LinkedIn: [linkedin.com/in/philippe-cadic]([your_linkedin_link](https://www.linkedin.com/in/philippe-cadic))
+💼 LinkedIn: [linkedin.com/in/philippe-cadic](https://www.linkedin.com/in/philippe-cadic)
