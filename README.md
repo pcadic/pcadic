@@ -42,3 +42,7 @@ Passionate about data analysis, I enjoy exploring and visualizing data to uncove
 
 ## 📫 Get in Touch  
 💼 LinkedIn: [linkedin.com/in/philippe-cadic](https://www.linkedin.com/in/philippe-cadic)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=pcadic&color=blue)
